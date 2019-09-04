@@ -5,4 +5,10 @@ Class Tank {
 		target.getSHotAt();
 		--ammunition;
 	}
+	
+	int drivenMeters=0;
+
+	void move(int amountToMoveInMeters){
+		//TODO implement
+	}
 }
